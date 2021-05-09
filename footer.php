@@ -1,20 +1,20 @@
 <section class="section-cta py-5 bg-primary text-white">
 		<div class="container">
 			<div class="text-center">
-			    <img class="profile-small d-inline-block mx-auto rounded-circle mb-2" src="assets/images/profile.jpg" alt="">
+			    <img class="profile-small d-inline-block mx-auto rounded-circle mb-2" src="assets/images/prabhat.jpg" alt="">
 		    </div>
 		    <h3 class="section-title font-weight-bold text-center mb-2">Interested in hiring me for your project?</h3>
 		    <div class="section-intro mx-auto text-center mb-3">
-			    Looking for an experienced full-stack developer to build your web app or ship your software product? To start an initial chat, just drop me an email at <a class="link-on-bg" href="#">steve.doe@youremail.com</a> or use the <a class="link-on-bg" href="contact.html">form on the contact page</a>.
+			    Looking for an experienced full-stack developer to build your web app or ship your software product? To start an initial chat, just drop me an email at <a class="link-on-bg" href="#">prabhatdubey994@gmail.com</a> or use the <a class="link-on-bg" href="contact">form on the contact page</a>.
 		    </div>
 		    <div class="text-center">
-		        <a class="theme-btn-on-bg btn" href="contact.html">Let's Talk</a>
+		        <a class="theme-btn-on-bg btn" href="contact">Let's Talk</a>
 		    </div>
 		</div><!--//container-->
 	</section>
     
     <footer class="footer text-light text-center py-2">
-	    <small class="copyright">Template Copyright &copy; <a class="text-light" href="https://themes.3rdwavemedia.com/" target="_blank">3rd Wave Media</a></small>
+	    <small class="copyright">All rights reserved &copy; 2021 Created by Prabhat Dubey<a class="text-light" href="#" target="_blank"></a></small>
     </footer>
     
     
